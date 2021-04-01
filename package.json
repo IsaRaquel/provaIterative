@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "selenium-webdriver": "*"
-  }
+  },
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "cypress-cucumber-preprocessor": "^4.0.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
 }
+
+}
+

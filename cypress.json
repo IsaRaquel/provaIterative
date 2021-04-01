@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://www.enjoei.com.br",
+    "defaultCommandTimeout": 30000,
+    "chromeWebSecurity": false
+}
+
